@@ -8,5 +8,5 @@ O projeto contempla a criação de duas páginas de relatório, com organizaçã
 Além do desenvolvimento do relatório, foram explorados recursos de navegação e apresentação no Power BI, buscando tornar a análise dos dados mais dinâmica e facilitar a utilização do relatório.
 
 **RESULTADOS**
-<img width="1920" height="887" alt="screenshot-2026-10-02-192538" src="https://github.com/user-attachments/assets/c63b25ba-38b0-438a-bf2a-885a78337258" />
 <img width="1920" height="887" alt="screenshot-2026-10-02-192521" src="https://github.com/user-attachments/assets/3b37e552-4581-45c3-8b20-9fa8680fb39a" />
+<img width="1920" height="887" alt="screenshot-2026-10-02-192538" src="https://github.com/user-attachments/assets/c63b25ba-38b0-438a-bf2a-885a78337258" />
